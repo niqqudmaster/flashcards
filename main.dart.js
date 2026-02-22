@@ -87872,7 +87872,7 @@ o.toString
 p=document.createElement("a")
 p.href=o
 o=new A.e9(Date.now(),0,!1).k(0)
-o=A.kH(o," ","")
+o=A.kH(o," ","_")
 p.setAttribute("download","NiqqudMaster"+A.kH(o,".","_")+".json")
 p.click()
 return A.p(null,r)}})
