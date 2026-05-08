@@ -1,6 +1,6 @@
 body {
 	color: #fffefc;
-	background-image: url("assets/background.png");
+	background-image: url("assets/assets/background.png");
 }
 
 #logoWrapper {
@@ -16,7 +16,7 @@ body {
 .loadingAnimation {
 	width: 226px;
 	height: 75px;
-	background-image: url("assets/loading_animation.png");
+	background-image: url("assets/assets/loading_animation.png");
 	-webkit-animation: loading 1.4s steps(9) infinite;
 }
 
