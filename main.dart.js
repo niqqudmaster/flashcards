@@ -86206,7 +86206,7 @@ J6(){var s=0,r=A.q(t.z),q=this,p,o,n,m
 var $async$J6=A.r(function(a,b){if(a===1)return A.n(b,r)
 for(;;)switch(s){case 0:q.d.e7(0.2)
 for(p=q.a.b,o=q.e,n=1;n<=p.length;++n){m=B.e.k(n)
-o.m(0,n,A.aLc(A.fc("asset:///"+("audio/"+m+".mp3"),0,null),null,null))}return A.o(null,r)}})
+o.m(0,n,A.aLc(A.fc("asset:///"+("assets/audio/"+m+".mp3"),0,null),null,null))}return A.o(null,r)}})
 return A.p($async$J6,r)},
 Ko(){var s,r,q,p,o=this
 o.y=o.Q.a.a
@@ -86476,7 +86476,7 @@ var $async$bD=A.r(function(b,c){if(b===1)return A.n(c,r)
 for(;;)switch(s){case 0:l=J
 k=B.b6
 s=2
-return A.k($.oe().aqQ("vocabulary.json"),$async$bD)
+return A.k($.oe().aqQ("assets/vocabulary.json"),$async$bD)
 case 2:p=l.b4(k.zg(0,c,null)),o=q.b
 case 3:if(!p.q()){s=4
 break}n=p.gM(p)
@@ -86521,10 +86521,10 @@ l(){this.e.l()
 this.aM()}}
 A.aph.prototype={
 $2(a,b){var s=null,r=this.a,q=$.x9(),p=A.wZ()?new A.PU(q,s):new A.LY(q,r.e,s)
-return new A.ql(new A.Lw(q,s),new A.II("background.png",A.rX(A.kQ(A.c([new A.d0(3,s),p,new A.d0(1,s),new A.Kj(q,s),new A.d0(9,s),new A.Nc(q,s),new A.d0(1,s)],t.p),B.ab,B.a4,B.aw),s,s),s),new A.Mp(q,s),!1,r.d.f)},
+return new A.ql(new A.Lw(q,s),new A.II("assets/background.png",A.rX(A.kQ(A.c([new A.d0(3,s),p,new A.d0(1,s),new A.Kj(q,s),new A.d0(9,s),new A.Nc(q,s),new A.d0(1,s)],t.p),B.ab,B.a4,B.aw),s,s),s),new A.Mp(q,s),!1,r.d.f)},
 $S:550}
 A.Lw.prototype={
-N(a){var s,r,q,p=null,o=A.wZ()?"logotype_mobile.png":"logotype_desktop.png"
+N(a){var s,r,q,p=null,o=A.wZ()?"assets/logotype_mobile.png":"assets/logotype_desktop.png"
 o=A.aPK(p,p,new A.rL(o,p,p))
 s=$.x9()
 r=A.wZ()?0:70
